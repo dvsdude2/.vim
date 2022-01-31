@@ -1,0 +1,52 @@
+  /home/dvsdude/Documents/vimwiki:
+  total used in directory 284K available 290.5 GiB
+  drwxr-xr-x 2 dvsdude dvsdude 4.0K Nov  8 16:49 bin
+  drwxr-xr-x 2 dvsdude dvsdude 4.0K Oct 28 15:14 diary
+  -rw-r--r-- 1 dvsdude dvsdude  884 Nov  8 16:49 Buffers.md
+  -rw-r--r-- 1 dvsdude dvsdude 4.8K Nov  8 16:49 Buftabline.md
+  -rw-r--r-- 1 dvsdude dvsdude 3.9K Nov  8 16:49 Doomcheatsheet2.md
+  -rw-r--r-- 1 dvsdude dvsdude 4.0K Nov  8 16:49 Doom-cheatsheet1.md
+  -rw-r--r-- 1 dvsdude dvsdude 4.3K Oct 27 04:52 Doom-tips.md
+  -rw-r--r-- 1 dvsdude dvsdude 8.2K Oct 27 04:52 Doom-workflow.md
+  -rw-r--r-- 1 dvsdude dvsdude   26 Oct 27 04:52 Guides.md
+  -rw-r--r-- 1 dvsdude dvsdude 1023 Oct 27 04:52 MARKDOWN.md
+  -rw-r--r-- 1 dvsdude dvsdude 2.0K Nov  8 16:49 NERDTree.md
+  -rw-r--r-- 1 dvsdude dvsdude 2.1K Oct 27 04:52 NERDTree quickhelp.md.md
+  -rw-r--r-- 1 dvsdude dvsdude   39 Oct 27 04:52 On-Demand.md
+  -rw-r--r-- 1 dvsdude dvsdude 3.0K Oct 27 04:52 PKG-build.md
+  -rw-r--r-- 1 dvsdude dvsdude 1.1K Nov  8 16:49 Tabs.md
+  -rw-r--r-- 1 dvsdude dvsdude   14 Oct 27 04:52 Tasks.md
+  -rw-r--r-- 1 dvsdude dvsdude   32 Oct 27 04:52 YouTube.md
+  -rw-r--r-- 1 dvsdude dvsdude 4.9K Oct 27 04:52 cheatsheet.md
+  -rw-r--r-- 1 dvsdude dvsdude 3.9K Nov  8 16:49 clippings.md
+  -rw-r--r-- 1 dvsdude dvsdude  878 Nov  8 16:49 coc.md
+  -rw-r--r-- 1 dvsdude dvsdude  145 Oct 27 04:52 commands.md
+  -rw-r--r-- 1 dvsdude dvsdude 9.8K Nov  8 16:49 config settings.md
+  -rw-r--r-- 1 dvsdude dvsdude 2.9K Oct 27 04:52 ctrl-p.md
+  -rw-r--r-- 1 dvsdude dvsdude 1.8K Nov  8 16:49 doom-emacs-index.md
+  -rw-r--r-- 1 dvsdude dvsdude 2.4K Oct 27 04:52 github.md
+  -rw-r--r-- 1 dvsdude dvsdude 1.4K Nov  8 16:49 imap.md
+  -rw-r--r-- 1 dvsdude dvsdude 2.2K Jan  9 02:10 index.md
+  -rw-r--r-- 1 dvsdude dvsdude   17 Oct 27 04:52 index.wiki
+  -rw-r--r-- 1 dvsdude dvsdude 1.1K Oct 27 04:52 installing-packages.md
+  -rw-r--r-- 1 dvsdude dvsdude  681 Oct 27 04:52 keymap-index.md
+  -rw-r--r-- 1 dvsdude dvsdude 1.6K Nov  8 16:49 leader.md
+  -rw-r--r-- 1 dvsdude dvsdude   51 Oct 27 04:52 lightline.md
+  -rw-r--r-- 1 dvsdude dvsdude 2.9K Nov  8 16:49 my collection.md
+  -rw-r--r-- 1 dvsdude dvsdude 1.8K Nov  8 16:49 nmap.md
+  -rw-r--r-- 1 dvsdude dvsdude 3.4K Nov  8 16:49 nomoresecrets.md
+  -rw-r--r-- 1 dvsdude dvsdude 4.4K Nov  8 16:49 open buffer list.md
+  -rw-r--r-- 1 dvsdude dvsdude 3.1K Nov  8 16:49 org-basics-dt.md
+  -rw-r--r-- 1 dvsdude dvsdude 7.8K Nov  8 16:49 org.take-notes.md.md
+  -rw-r--r-- 1 dvsdude dvsdude 5.0K Nov  8 16:49 surround.md
+  -rw-r--r-- 1 dvsdude dvsdude 4.0K Oct 27 04:52 this-wiki.md
+  -rw-r--r-- 1 dvsdude dvsdude 1.4K Nov  8 16:49 thumbnails.md
+  -rw-r--r-- 1 dvsdude dvsdude 1.3K Oct 27 04:52 vimagit.md
+  -rw-r--r-- 1 dvsdude dvsdude 1009 Oct 27 04:52 vim diary help.md
+  -rw-r--r-- 1 dvsdude dvsdude 6.8K Oct 27 04:52 vim-autocommands.md
+  -rw-r--r-- 1 dvsdude dvsdude  25K Nov 25 19:20 vim-ninja-training.md
+  -rw-r--r-- 1 dvsdude dvsdude  404 Nov  8 17:14 vim-plugins.md
+  -rw-r--r-- 1 dvsdude dvsdude  13K Oct 27 04:52 vim-shortcuts.md
+  -rw-r--r-- 1 dvsdude dvsdude 2.6K Oct 27 04:52 writing script.md
+  -rw-r--r-- 1 dvsdude dvsdude    0 Oct 27 04:52 zim-wiki.md
+  -rw-r--r-- 1 dvsdude dvsdude   38 Oct 27 04:52 +-status bar.wiki

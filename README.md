@@ -1,6 +1,6 @@
 # vim w/wiki
 will update later
-![wicked vimwiki](~/.vim/images/vimpic1.png)
+![wicked vimwiki](/images/vimpic1.png)
 _____________
 
 # THIS IS MY vim set up

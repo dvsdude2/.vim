@@ -1,6 +1,6 @@
 # vimwiki
 will update later
-![wicked vimwiki](images/dvsdudewiki-pic4.png)
+![wicked vimwiki](~/.vim/vimwiki/images/vimpic1.png)
 _____________
 
 # THIS IS MY WICKED VIMWIKI 
